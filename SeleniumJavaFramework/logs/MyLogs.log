@@ -1,0 +1,43 @@
+[TRACE] 2018-08-06 15:36:06.796 [main] Log4jDemo - This is trace messages
+[INFO ] 2018-08-06 15:36:06.801 [main] Log4jDemo - This is information message
+[ERROR] 2018-08-06 15:36:06.802 [main] Log4jDemo - This is an error message
+[WARN ] 2018-08-06 15:36:06.805 [main] Log4jDemo - This is a warning message
+[FATAL] 2018-08-06 15:36:06.806 [main] Log4jDemo - This is a fatal message
+[TRACE] 2018-08-06 15:48:43.419 [main] Log4jDemo - This is trace messages
+[INFO ] 2018-08-06 15:48:43.425 [main] Log4jDemo - This is information message
+[ERROR] 2018-08-06 15:48:43.425 [main] Log4jDemo - This is an error message
+[WARN ] 2018-08-06 15:48:43.425 [main] Log4jDemo - This is a warning message
+[FATAL] 2018-08-06 15:48:43.425 [main] Log4jDemo - This is a fatal message
+[INFO ] 2018-08-07 06:27:04.467 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 06:27:05.046 [main] Log4jDemo - Navigated to google.com
+[TRACE] 2018-08-07 15:06:16.679 [main] Log4jDemo - This is trace messages
+[INFO ] 2018-08-07 15:06:16.685 [main] Log4jDemo - This is information message
+[ERROR] 2018-08-07 15:06:16.686 [main] Log4jDemo - This is an error message
+[WARN ] 2018-08-07 15:06:16.686 [main] Log4jDemo - This is a warning message
+[FATAL] 2018-08-07 15:06:16.686 [main] Log4jDemo - This is a fatal message
+[INFO ] 2018-08-07 15:49:50.500 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 15:49:50.875 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 15:50:14.851 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 15:50:15.421 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 15:50:35.574 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 15:50:36.125 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 15:52:13.619 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 15:52:14.187 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 15:53:17.181 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 15:53:17.697 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 15:53:47.890 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 15:53:48.461 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 15:54:49.793 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 15:54:50.389 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 15:55:19.663 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 15:55:20.242 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 16:24:07.103 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 16:24:07.445 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 16:24:32.841 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 16:24:33.406 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 16:25:21.280 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 16:25:21.829 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-07 16:26:22.786 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-07 16:26:23.427 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2018-08-11 12:28:26.622 [main] Log4jDemo - Browser started
+[INFO ] 2018-08-11 12:28:27.312 [main] Log4jDemo - Navigated to google.com
