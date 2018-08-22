@@ -13,7 +13,7 @@
 			<version>3.4.0</version>
 		</dependency>
 
-		
+
 
 
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -46,6 +46,12 @@
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
 			<version>3.17</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.applitools</groupId>
+			<artifactId>eyes-selenium-java3</artifactId>
+			<version>RELEASE</version>
 		</dependency>
 
 
